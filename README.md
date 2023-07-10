@@ -1,8 +1,13 @@
 # 2048
 
-2048 game using HTML 5 Canvas.
+2048 game using Javascript for game engine and HTML 5 Canvas to render.
+### Feature
+1. Javascript
+2. Canvas
+3. Touch Screen
+4. Cookies to store best score (best time is stored and still be used for next time)
 ## Demo
-You can try out here online immediately! <link>https://WannJJ.github.io/</link>
+You can try out online immediately at <link>https://WannJJ.github.io/</link>!
 ## Game play
-![board](Screenshots/Capture2048.JPG)
+![Gameplay](Screenshots/Capture2048.JPG)
 
